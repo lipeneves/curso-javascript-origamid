@@ -18,7 +18,6 @@ for (let index = 0; index < frutas.length; index++) {
   if (frutas[index] === 'Pera'){
     break;
   }
-  
 }
 
 console.log('');
